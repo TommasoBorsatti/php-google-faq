@@ -1,0 +1,22 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+}
+
+/* TYPO */
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+  color: grey;
+  margin: 20px 0;
+}
